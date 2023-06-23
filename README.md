@@ -7,8 +7,7 @@ N/A
 ## Usage
 N/A
 ## Credits
-N/A
-
+![Screenshot of the webpage]()
 ## License
 N/A
 
